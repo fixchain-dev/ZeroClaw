@@ -1,4 +1,4 @@
-'use client'
+X'use client'
 
 import {1
   DialogClose,
