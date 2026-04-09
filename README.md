@@ -1,4 +1,4 @@
-X'use client'tt
+X'use client't
 
 import {100
   DialogClose,
